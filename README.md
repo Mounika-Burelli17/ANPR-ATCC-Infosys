@@ -1,4 +1,4 @@
-ANPR-ATCC: Advanced Automatic Number Plate Recognition & Traffic Classification System
+#ANPR-ATCC: Advanced Automatic Number Plate Recognition & Traffic Classification System
 Project Overview
 ANPR-ATCC is a powerful, unified traffic monitoring platform combining:
 
